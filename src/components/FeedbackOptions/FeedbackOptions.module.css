@@ -1,0 +1,18 @@
+.buttons_box {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.feedback_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  background-color: rgb(70, 9, 212);
+  color: aliceblue;
+  border-radius: 5px;
+}

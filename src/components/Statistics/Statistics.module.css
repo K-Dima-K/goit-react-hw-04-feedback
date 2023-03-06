@@ -1,0 +1,9 @@
+.stat_list {
+  list-style: none;
+}
+
+.stat_text {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
